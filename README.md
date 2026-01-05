@@ -1,145 +1,138 @@
-🚀 Dofus FM — Bot de Forgemagie Automatisé
+# 🚀 Dofus FM — Bot de Forgemagie Automatisé
 
-Dofus FM est un bot de forgemagie intelligent conçu pour les joueurs de DOFUS 3.0 souhaitant automatiser les tâches répétitives de FM, gagner un temps considérable et optimiser leurs résultats, tout en gardant le contrôle sur leurs paramètres.
+🌐 **Site web** : https://web.dofus-fm.cloud  
+💬 **Discord** : https://discord.gg/GRV3hBcSr8
 
-🎯 Objectif du bot
+---
 
-La forgemagie est l’une des activités les plus chronophages du jeu. Dofus FM a été créé pour :
+## 🎯 Présentation
 
-Automatiser les remontées d’items
+**Dofus FM** est un bot de forgemagie automatisé pour **DOFUS 3.0**, conçu pour aider les joueurs à gagner un temps considérable en automatisant les tâches répétitives de FM tout en conservant un haut niveau de contrôle et de sécurité.
 
-Faciliter les exos PA / PM / PO / Invocation
+Que ce soit pour des **remontées d’items** ou des **exos PA / PM / PO / Invocation**, Dofus FM travaille pour vous pendant que vous profitez de votre temps libre.
 
-Réduire la fatigue liée aux actions répétitives
+---
 
-Vous permettre de profiter de votre temps pendant que le bot travaille
+## ⚙️ Fonctionnement
 
-⚙️ Fonctionnement général
+- Simulation d’actions humaines avec délais aléatoires  
+- Fonctionnement **externe** (aucune modification des fichiers du jeu)  
+- Interface simple et guidée  
+- Algorithme optimisé pour la gestion des runes et des tentatives  
 
-Simulation d’actions humaines avec délais aléatoires
+> Aucun utilisateur n’a été banni depuis le lancement du bot (selon nos données internes).
 
-Fonctionnement externe (aucune modification des fichiers du jeu)
+---
 
-Configuration simple et guidée
-
-Algorithme optimisé pour la gestion des runes et des tentatives
-
-📌 Aucun utilisateur n’a été banni depuis le lancement du bot (selon les données internes).
-
-🖥️ Prérequis
+## 🖥️ Prérequis
 
 Pour utiliser Dofus FM, vous devez disposer de :
 
-Windows 10 ou 11
+- **Windows 10 ou 11**
+- **DOFUS 3.0** installé
+- Un personnage avec un **métier de forgemagie**
+- Un **abonnement actif** à Dofus FM
 
-DOFUS 3.0 installé
+🔜 Support Mac et Linux prévu prochainement.
 
-Un personnage avec un métier de forgemagie
+---
 
-Un abonnement actif à Dofus FM
+## ⏱️ Gain de temps
 
-Le support Mac et Linux est prévu prochainement.
+Dofus FM permet de gagner un temps précieux :
 
-⏱️ Gain de temps & productivité
-
-Avec Dofus FM, vous économisez un temps précieux :
-
-Remontées simples : jusqu’à plusieurs minutes par item
-
-Exos PA / PM : environ 90 runes en moyenne
-
-Exos PO / Invocation : environ 30 runes en moyenne
+- **Remontées simples** : jusqu’à plusieurs minutes par item  
+- **Exos PA / PM** : ~90 runes en moyenne  
+- **Exos PO / Invocation** : ~30 runes en moyenne  
 
 Pendant ce temps, vous pouvez :
+- Jouer sur un autre compte
+- Regarder des vidéos ou streams
+- Utiliser votre PC normalement
+- Laisser le bot travailler pendant votre absence (plan Ultimate)
 
-Jouer sur un autre compte
+---
 
-Regarder des vidéos ou streams
+## 👥 Multi-comptes & arrière-plan
 
-Utiliser votre PC normalement
+- Le **plan Ultimate** inclut :
+  - Le **multi-sessions** (plusieurs comptes simultanément)
+  - Le **mode arrière-plan** (Dofus peut être minimisé)
+- Les plans Basic et Premium nécessitent que Dofus reste visible
 
-Laisser le bot travailler en arrière-plan (plan Ultimate)
+---
 
-👥 Multi-comptes & mode arrière-plan
+## 💳 Système de crédits
 
-Le plan Ultimate permet :
+Chaque abonnement inclut des crédits hebdomadaires :
 
-Le multi-sessions (plusieurs comptes en même temps)
+| Plan      | Crédits / semaine |
+|-----------|------------------|
+| Basic     | 3                |
+| Premium  | 6                |
+| Ultimate | 10               |
 
-Le mode arrière-plan (Dofus peut être minimisé)
+### Consommation :
+- Remontée d’item : **0.2 crédit**
+- Exo PO / Invocation : **0.5 crédit**
+- Exo PA / PM : **1 crédit**
 
-Les plans Basic et Premium nécessitent que Dofus reste visible
+⚠️ Les crédits non utilisés ne sont pas reportés.
 
-💳 Système de crédits
+---
 
-Chaque abonnement inclut un nombre de crédits hebdomadaires :
+## 🔄 Mises à jour
 
-Plan	Crédits / semaine
-Basic	3
-Premium	6
-Ultimate	10
-Consommation :
+Avec un abonnement actif, vous bénéficiez de :
 
-Remontée d’item : 0.2 crédit
+- Toutes les **mises à jour**
+- Correctifs de bugs
+- Nouvelles fonctionnalités
+- Adaptation aux patchs DOFUS
 
-Exo PO / Invocation : 0.5 crédit
+Les mises à jour sont **automatiques** au démarrage.
 
-Exo PA / PM : 1 crédit
+---
 
-Les crédits non utilisés ne sont pas reportés.
+## 🛑 Risques & responsabilités
 
-🔄 Mises à jour & maintenance
+La forgemagie comporte toujours des risques :
 
-Tant que votre abonnement est actif, vous bénéficiez de :
+- Casse d’items possible
+- Résultats dépendants des probabilités du jeu
 
-Toutes les mises à jour
+👉 Le bot applique vos paramètres mais **ne garantit aucun résultat**.  
+Nous recommandons de commencer avec des items de faible valeur et d’utiliser les limites de sécurité.
 
-Correctifs de bugs
+---
 
-Nouvelles fonctionnalités
+## ❌ Annulation
 
-Adaptation aux patchs DOFUS
+- Annulation possible **à tout moment**
+- Aucun frais supplémentaire
+- Accès conservé jusqu’à la fin de la période payée
 
-Les mises à jour sont automatiques au démarrage.
+---
 
-🛑 Risques & responsabilités
+## 🆘 Support
 
-La forgemagie comporte toujours un risque :
+Besoin d’aide ?
 
-Casse d’items possible
+- 💬 **Discord** : support prioritaire  
+- ✉️ **Formulaire de contact**  
+- 📘 **Guide intégré** dans le bot  
 
-Résultats dépendants des probabilités du jeu
+Les abonnés **Ultimate** bénéficient d’un support prioritaire.
 
-👉 Le bot applique vos paramètres mais ne garantit aucun résultat.
-Nous recommandons de tester avec des items de faible valeur et d’utiliser les limites de sécurité.
+---
 
-❌ Annulation
+## ✨ Pourquoi Dofus FM ?
 
-Annulation possible à tout moment
+✔ Gain de temps massif  
+✔ Automatisation intelligente  
+✔ Multi-comptes avancé  
+✔ Support réactif  
+✔ Mises à jour continues  
 
-Aucun frais supplémentaire
-
-Accès conservé jusqu’à la fin de la période payée
-
-🆘 Support & assistance
-
-Plusieurs moyens sont disponibles :
-
-Discord (support prioritaire)
-
-Formulaire de contact (réponse sous 24h)
-
-Guide intégré directement dans le bot
-
-Les abonnés Ultimate bénéficient d’un support prioritaire.
-
-✨ Pourquoi choisir Dofus FM ?
-
-✔ Gain de temps massif
-✔ Automatisation intelligente
-✔ Multi-comptes avancé
-✔ Support réactif
-✔ Mises à jour continues
-
-Dofus FM s’occupe du travail répétitif.
-Vous profitez du jeu.
+**Dofus FM s’occupe du travail répétitif.  
+Vous profitez du jeu.**
