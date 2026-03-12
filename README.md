@@ -53,15 +53,6 @@ Pendant ce temps, vous pouvez :
 
 ---
 
-## 👥 Multi-comptes & arrière-plan
-
-- Le **plan Ultimate** inclut :
-  - Le **multi-sessions** (plusieurs comptes simultanément)
-  - Le **mode arrière-plan** (Dofus peut être minimisé)
-- Les plans Basic et Premium nécessitent que Dofus reste visible
-
----
-
 ## 💳 Système de crédits
 
 Chaque abonnement inclut des crédits hebdomadaires :
