@@ -1,129 +1,101 @@
-# 🚀 Dofus FM — Bot de Forgemagie Automatisé (Mac Os / Windows)
+# Bot FM Dofus
 
-🌐 **Site web** : https://web.dofus-fm.cloud  
-💬 **Discord** : https://discord.gg/GRV3hBcSr8
+## Introduction
 
----
+Si tu fais de la Forgemagie sur Dofus, tu sais déjà.
 
-## 🎯 Présentation
+Ce n’est pas une question de difficulté.
+C’est une question de temps, de patience… et surtout de répétition.
 
-**Dofus FM** est un bot de forgemagie automatisé pour **DOFUS 3.0**, conçu pour aider les joueurs à gagner un temps considérable en automatisant les tâches répétitives de FM tout en conservant un haut niveau de contrôle et de sécurité.
+Cliquer pendant des heures.
+Voir les jets retomber.
+Rater des exos en boucle.
 
-Que ce soit pour des **remontées d’items** ou des **exos PA / PM / PO / Invocation**, Dofus FM travaille pour vous pendant que vous profitez de votre temps libre.
+La FM, pour beaucoup, c’est juste une purge.
 
----
-
-## ⚙️ Fonctionnement
-
-- Simulation d’actions humaines avec délais aléatoires  
-- Fonctionnement **externe** (aucune modification des fichiers du jeu)  
-- Interface simple et guidée  
-- Algorithme optimisé pour la gestion des runes et des tentatives  
-
-> Aucun utilisateur n’a été banni depuis le lancement du bot (selon nos données internes).
+Ce projet est né de ce constat.
 
 ---
 
-## 🖥️ Prérequis
+## Origine du projet
 
-Pour utiliser Dofus FM, vous devez disposer de :
+À la base, ce bot n’était pas destiné à être public.
 
-- **Windows 10 ou 11**
-- **DOFUS 3.0** installé
-- Un personnage avec un **métier de forgemagie**
-- Un **abonnement actif** à Dofus FM
+On l’a développé pour nous.
+Pour éviter de passer des heures à faire quelque chose qu’on n’aimait pas.
 
-🔜 Support Mac et Linux prévu prochainement.
+On l’a utilisé en privé, optimisé, amélioré… jusqu’à obtenir un algo capable de gérer la FM de manière fiable et efficace.
 
----
+Puis on s’est dit une chose simple :
 
-## ⏱️ Gain de temps
+On n’est clairement pas les seuls à en avoir marre de la FM.
 
-Dofus FM permet de gagner un temps précieux :
-
-- **Remontées simples** : jusqu’à plusieurs minutes par item  
-- **Exos PA / PM** : ~90 runes en moyenne  
-- **Exos PO / Invocation** : ~30 runes en moyenne  
-
-Pendant ce temps, vous pouvez :
-- Jouer sur un autre compte
-- Regarder des vidéos ou streams
-- Utiliser votre PC normalement
-- Laisser le bot travailler pendant votre absence (plan Ultimate)
+Donc on a décidé d’ouvrir l’accès.
 
 ---
 
-## 💳 Système de crédits
+## Fonctionnement
 
-Chaque abonnement inclut des crédits hebdomadaires :
+Le principe est simple :
 
-| Plan      | Crédits / semaine |
-|-----------|------------------|
-| Basic     | 3                |
-| Premium  | 6                |
-| Ultimate | 10               |
+* Tu définis le jet que tu veux atteindre
+* Tu lances le bot
+* L’algorithme gère la remontée automatiquement
 
-### Consommation :
-- Remontée d’item : **0.2 crédit**
-- Exo PO / Invocation : **0.5 crédit**
-- Exo PA / PM : **1 crédit**
+Il s’occupe de toute la partie répétitive à ta place.
 
-⚠️ Les crédits non utilisés ne sont pas reportés.
+Pendant ce temps, tu peux faire autre chose.
 
 ---
 
-## 🔄 Mises à jour
+## Fonctionnalités
 
-Avec un abonnement actif, vous bénéficiez de :
-
-- Toutes les **mises à jour**
-- Correctifs de bugs
-- Nouvelles fonctionnalités
-- Adaptation aux patchs DOFUS
-
-Les mises à jour sont **automatiques** au démarrage.
+* Algorithme optimisé pour atteindre un jet précis
+* Enchaînement de plusieurs exos automatiquement
+* Compatible Mac & Windows
+* Mises à jour automatiques
+* Aucune modification du client du jeu
 
 ---
 
-## 🛑 Risques & responsabilités
+## Sécurité
 
-La forgemagie comporte toujours des risques :
+Le bot ne modifie pas le client Dofus.
 
-- Casse d’items possible
-- Résultats dépendants des probabilités du jeu
+Cela signifie :
 
-👉 Le bot applique vos paramètres mais **ne garantit aucun résultat**.  
-Nous recommandons de commencer avec des items de faible valeur et d’utiliser les limites de sécurité.
-
----
-
-## ❌ Annulation
-
-- Annulation possible **à tout moment**
-- Aucun frais supplémentaire
-- Accès conservé jusqu’à la fin de la période payée
+* Aucun fichier du jeu n’est altéré
+* Aucun comportement détectable côté Ankama
 
 ---
 
-## 🆘 Support
+## Philosophie & Prix
 
-Besoin d’aide ?
+Le prix est volontairement élevé.
 
-- 💬 **Discord** : support prioritaire  
-- ✉️ **Formulaire de contact**  
-- 📘 **Guide intégré** dans le bot  
+Ce n’est pas un hasard.
 
-Les abonnés **Ultimate** bénéficient d’un support prioritaire.
+On connaît la puissance de cet outil.
+Et on sait qu’un prix trop bas aurait un impact encore plus important sur l’économie du jeu.
+
+Ce bot n’est pas conçu pour être utilisé par tout le monde.
+
+Il s’adresse à ceux qui :
+
+* Ont compris la valeur de leur temps
+* Ne veulent plus subir la FM
+* Cherchent une solution efficace et autonome
 
 ---
 
-## ✨ Pourquoi Dofus FM ?
+## Conclusion
 
-✔ Gain de temps massif  
-✔ Automatisation intelligente  
-✔ Multi-comptes avancé  
-✔ Support réactif  
-✔ Mises à jour continues  
+Ce bot ne rend pas la FM “plus facile”.
 
-**Dofus FM s’occupe du travail répétitif.  
-Vous profitez du jeu.**
+Il la rend simplement inutile à faire soi-même.
+
+Si tu veux continuer à cliquer pendant des heures, rien ne change pour toi.
+
+Sinon, tu sais ce qu’il te reste à faire.
+
+https://web.dofus-fm.cloud
