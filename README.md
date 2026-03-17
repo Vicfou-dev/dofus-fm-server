@@ -102,4 +102,3 @@ Si tu veux continuer à cliquer pendant des heures, rien ne change pour toi.
 
 Sinon, tu sais ce qu’il te reste à faire.
 
-https://web.dofus-fm.cloud
