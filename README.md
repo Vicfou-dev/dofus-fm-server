@@ -1,6 +1,7 @@
 # Bot FM Dofus (Mac & Windows)
 
 Site web : https://web.dofus-fm.cloud
+
 Discord : https://discord.gg/GRV3hBcSr8
 
 ## Introduction
