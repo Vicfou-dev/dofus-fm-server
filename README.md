@@ -1,104 +1,108 @@
-# Bot FM Dofus (Mac & Windows)
+# DofusFM
 
-Site web : https://web.dofus-fm.cloud
-
-Discord : https://discord.gg/GRV3hBcSr8
-
-## Introduction
-
-Si tu fais de la Forgemagie sur Dofus, tu sais déjà.
-
-Ce n’est pas une question de difficulté.
-C’est une question de temps, de patience… et surtout de répétition.
-
-Cliquer pendant des heures.
-Voir les jets retomber.
-Rater des exos en boucle.
-
-La FM, pour beaucoup, c’est juste une purge.
-
-Ce projet est né de ce constat.
+**Automatise ta Forgemagie sur Dofus 3.0.**  
+Arrête de spammer les runes pendant des heures.
 
 ---
 
-## Origine du projet
+## Ce que c'est
 
-À la base, ce bot n’était pas destiné à être public.
+Un outil. Pas une startup, pas une IA révolutionnaire.
 
-On l’a développé pour nous.
-Pour éviter de passer des heures à faire quelque chose qu’on n’aimait pas.
+Tu lances une session, tu fais autre chose. DofusFM s'occupe de tes exos PA, PM, PO en arrière-plan pendant que tu dors, regardes une série, ou joues sur un autre compte.
 
-On l’a utilisé en privé, optimisé, amélioré… jusqu’à obtenir un algo capable de gérer la FM de manière fiable et efficace.
-
-Puis on s’est dit une chose simple :
-
-On n’est clairement pas les seuls à en avoir marre de la FM.
-
-Donc on a décidé d’ouvrir l’accès.
+Compatible Windows & Mac. Dofus 3.0 (Unity).
 
 ---
 
-## Fonctionnement
+## Origine
 
-Le principe est simple :
+On est deux joueurs. On a passé trop de soirées à spammer des runes à la main.
 
-* Tu définis le jet que tu veux atteindre
-* Tu lances le bot
-* L’algorithme gère la remontée automatiquement
+On a construit l'outil qu'on voulait utiliser. Résultat : 12 000+ exos faits, des centaines d'utilisateurs chaque semaine, et plus une seule heure perdue en FM manuelle.
 
-Il s’occupe de toute la partie répétitive à ta place.
+---
 
-Pendant ce temps, tu peux faire autre chose.
+## Comment ça marche
+
+**4 étapes. C'est tout.**
+
+1. **Télécharge** — installe en 2 minutes sur Windows ou Mac
+2. **Lance Dofus** — ton compte, ton métier Forgemagie actif
+3. **Configure ton item** — choisis l'item, définis les stats cibles
+4. **Lance & oublie** — DofusFM s'arrête automatiquement quand l'exo est obtenu
+
+Pas de configuration absurde. Pas de manuel à lire.
 
 ---
 
 ## Fonctionnalités
 
-* Algorithme optimisé pour atteindre un jet précis
-* Enchaînement de plusieurs exos automatiquement
-* Compatible Mac & Windows
-* Mises à jour automatiques
-* Aucune modification du client du jeu
+**IA de décision**  
+Chaque rune est choisie en millisecondes. Zéro rune perdue, zéro temps mort.
+
+**Background Click**  
+Dofus reste en arrière-plan. La fenêtre peut être minimisée. Tu continues à utiliser ton PC normalement.
+
+**Multi-Sessions**  
+Ouvre 3 comptes, lance 3 sessions. Aucun effort supplémentaire.
+
+**Statistiques détaillées**  
+Nombre de runes dépensées, coût par exo, historique complet des tentatives.
+
+**Mises à jour automatiques**  
+DofusFM se met à jour au démarrage. Tu n'as rien à faire.
+
+**Exos supportés**  
+PA · PM · PO · Invocation — items niveau 1 à 200.
 
 ---
 
 ## Sécurité
 
-Le bot ne modifie pas le client Dofus.
+DofusFM simule des clics souris réels et lit l'écran.  
+Il ne modifie pas les fichiers du jeu. Il n'injecte pas de code dans le client.
 
-Cela signifie :
-
-* Aucun fichier du jeu n’est altéré
-* Aucun comportement détectable côté Ankama
-
----
-
-## Philosophie & Prix
-
-Le prix est volontairement élevé.
-
-Ce n’est pas un hasard.
-
-On connaît la puissance de cet outil.
-Et on sait qu’un prix trop bas aurait un impact encore plus important sur l’économie du jeu.
-
-Ce bot n’est pas conçu pour être utilisé par tout le monde.
-
-Il s’adresse à ceux qui :
-
-* Ont compris la valeur de leur temps
-* Ne veulent plus subir la FM
-* Cherchent une solution efficace et autonome
+Le risque est très limité. Des centaines d'utilisateurs l'utilisent régulièrement sans incident.  
+Une utilisation raisonnable est recommandée — évite les sessions de 72h sans pause.
 
 ---
 
-## Conclusion
+## Prix
 
-Ce bot ne rend pas la FM “plus facile”.
+Trois packs. Pas d'abonnement.
 
-Il la rend simplement inutile à faire soi-même.
+| Pack | Prix | Exos |
+|------|------|------|
+| Starter | 4.99€ | 5 exos |
+| Standard | 9.99€ | 12 exos |
+| Pro | 19.99€+ | 25 à 150 exos |
 
-Si tu veux continuer à cliquer pendant des heures, rien ne change pour toi.
+**1 exo = 1 tentative exotique complète** (PA, PM, PO ou Invocation).  
+Les exos n'expirent pas. Ils s'accumulent.
 
-Sinon, tu sais ce qu’il te reste à faire.
+Paiement par PayPal ou crypto (EVM). Activation manuelle sous 24h.
 
+---
+
+## Philosophie
+
+On n'est pas une boîte. On est des joueurs qui ont automatisé un truc chiant.
+
+Le code est local. L'outil ne lit pas ton compte, ne stocke pas tes données de jeu, ne parle pas à des serveurs tiers sauf pour vérifier ta licence Discord.
+
+Si quelque chose ne fonctionne pas, on répond sur Discord. En général en moins de 2h.
+
+---
+
+## Liens
+
+- **Site** → [web.dofus-fm.cloud](https://web.dofus-fm.cloud)
+- **Discord** → [discord.gg/dofusfm](https://discord.gg/dofusfm)
+- **Guide** → [web.dofus-fm.cloud/fr/guide](https://web.dofus-fm.cloud/fr/guide)
+- **Téléchargement Mac** → [release.dofus-fm.cloud/DofusFM-Server.pkg](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
+- **Téléchargement Windows** → [release.dofus-fm.cloud/DofusFM_Setup.exe](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+
+---
+
+*macOS & Windows · Dofus 3.0 · Connexion Discord · Mises à jour gratuites*
