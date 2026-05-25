@@ -98,7 +98,7 @@ Si quelque chose ne fonctionne pas, on répond sur Discord. En général en moin
 ## Liens
 
 - **Site** → [web.dofus-fm.cloud](https://web.dofus-fm.cloud)
-- **Discord** → [discord.gg/dofusfm](https://discord.gg/dofusfm)
+- **Discord** → [[discord.gg/dofusfm](https://discord.gg/GRV3hBcSr8)
 - **Guide** → [web.dofus-fm.cloud/fr/guide](https://web.dofus-fm.cloud/fr/guide)
 - **Téléchargement Mac** → [release.dofus-fm.cloud/DofusFM-Server.pkg](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
 - **Téléchargement Windows** → [release.dofus-fm.cloud/DofusFM_Setup.exe](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
