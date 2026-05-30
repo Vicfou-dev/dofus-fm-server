@@ -19,7 +19,7 @@ Compatible Windows & Mac. Dofus 3.0 (Unity).
 
 On est deux joueurs. On a passé trop de soirées à spammer des runes à la main.
 
-On a construit l'outil qu'on voulait utiliser. Résultat : 12 000+ exos faits, des centaines d'utilisateurs chaque semaine, et plus une seule heure perdue en FM manuelle.
+On a construit l'outil qu'on voulait utiliser. Résultat : 12 000+ exos faits, des centaines d'exos chaque semaine, et plus une seule heure perdue en FM manuelle.
 
 ---
 
