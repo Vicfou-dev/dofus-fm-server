@@ -5,6 +5,16 @@ Arrête de spammer les runes pendant des heures.
 
 ---
 
+## Liens
+
+- **Site** → [web.dofus-fm.cloud](https://web.dofus-fm.cloud)
+- **Discord** → [discord.gg/dofusfm](https://discord.gg/GRV3hBcSr8)
+- **Guide** → [web.dofus-fm.cloud/fr/guide](https://web.dofus-fm.cloud/fr/guide)
+- **Téléchargement Mac** → [release.dofus-fm.cloud/DofusFM-Server.pkg](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
+- **Téléchargement Windows** → [release.dofus-fm.cloud/DofusFM_Setup.exe](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+
+---
+
 ## Ce que c'est
 
 Un outil. Pas une startup, pas une IA révolutionnaire.
@@ -92,16 +102,6 @@ On n'est pas une boîte. On est des joueurs qui ont automatisé un truc chiant.
 Le code est local. L'outil ne lit pas ton compte, ne stocke pas tes données de jeu, ne parle pas à des serveurs tiers sauf pour vérifier ta licence Discord.
 
 Si quelque chose ne fonctionne pas, on répond sur Discord. En général en moins de 2h.
-
----
-
-## Liens
-
-- **Site** → [web.dofus-fm.cloud](https://web.dofus-fm.cloud)
-- **Discord** → [discord.gg/dofusfm](https://discord.gg/GRV3hBcSr8)
-- **Guide** → [web.dofus-fm.cloud/fr/guide](https://web.dofus-fm.cloud/fr/guide)
-- **Téléchargement Mac** → [release.dofus-fm.cloud/DofusFM-Server.pkg](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
-- **Téléchargement Windows** → [release.dofus-fm.cloud/DofusFM_Setup.exe](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
 
 ---
 
