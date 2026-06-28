@@ -1,5 +1,7 @@
 # DofusFM
 
+![Preview](preview.png)
+
 **Automatise ta Forgemagie sur Dofus 3.0.**  
 Arrête de spammer les runes pendant des heures.
 
