@@ -1,19 +1,19 @@
+<div align="center">
+
 # DofusFM
+
+**Automatise ta Forgemagie sur Dofus 3.0**
+
+[![Website](https://img.shields.io/badge/🌐_Site-black?style=for-the-badge)](https://web.dofus-fm.cloud)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GRV3hBcSr8)
+[![Windows](https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows)](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+[![macOS](https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple)](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
 
 ![](dofus-fm.png)
 
-**Automatise ta Forgemagie sur Dofus 3.0.**  
-Arrête de spammer les runes pendant des heures.
+*macOS • Windows • Dofus 3.0 • Discord Login • Free Updates*
 
----
-
-## Liens
-
-- [**Site**](https://web.dofus-fm.cloud)
-- [**Discord**](https://discord.gg/GRV3hBcSr8)
-- [**Guide**](https://web.dofus-fm.cloud/fr/guide)
-- [**Téléchargement Mac**](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
-- [**Téléchargement Windows**](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+</div>
 
 ---
 
@@ -106,5 +106,14 @@ Le code est local. L'outil ne lit pas ton compte, ne stocke pas tes données de 
 Si quelque chose ne fonctionne pas, on répond sur Discord. En général en moins de 2h.
 
 ---
+---
 
+## Liens
+
+- [**Site**](https://web.dofus-fm.cloud)
+- [**Discord**](https://discord.gg/GRV3hBcSr8)
+- [**Guide**](https://web.dofus-fm.cloud/fr/guide)
+- [**Téléchargement Mac**](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
+- [**Téléchargement Windows**](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+  
 *macOS & Windows · Dofus 3.0 · Connexion Discord · Mises à jour gratuites*
