@@ -7,11 +7,11 @@ Arrête de spammer les runes pendant des heures.
 
 ## Liens
 
-- **Site** → [web.dofus-fm.cloud](https://web.dofus-fm.cloud)
-- **Discord** → [discord.gg/dofusfm](https://discord.gg/GRV3hBcSr8)
-- **Guide** → [web.dofus-fm.cloud/fr/guide](https://web.dofus-fm.cloud/fr/guide)
-- **Téléchargement Mac** → [release.dofus-fm.cloud/DofusFM-Server.pkg](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
-- **Téléchargement Windows** → [release.dofus-fm.cloud/DofusFM_Setup.exe](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
+- [**Site**](https://web.dofus-fm.cloud)
+- [**Discord**](https://discord.gg/GRV3hBcSr8)
+- [**Guide**](https://web.dofus-fm.cloud/fr/guide)
+- [**Téléchargement Mac**](https://release.dofus-fm.cloud/DofusFM-Server.pkg)
+- [**Téléchargement Windows**](https://release.dofus-fm.cloud/DofusFM_Setup.exe)
 
 ---
 
